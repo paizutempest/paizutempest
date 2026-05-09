@@ -7,8 +7,9 @@
   <div align="center">
   <h1>Hi, I'm Paizutempest! 👋</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9FEFEE&center=true&vCenter=true&width=500&lines=Bot+Developer;Tech+Enthusiast;Cuma+seorang+bot+developer+yang+lagi+asik+ngulik+barisan+kode." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=53E1E1&center=true&vCenter=true&width=800&lines=Bot+Developer+%7C+Tech+Enthusiast;Cuma+seorang+bot+developer+yang+lagi+asik+ngulik+barisan+kode." alt="Typing SVG" />
 </div>
+
 
 ### 🚀 Sedikit Tentang Aku
 Halo! Aku bergabung di GitHub karena ingin punya tempat buat nyimpen semua projek dan skrip yang aku bikin. GitHub itu kayak "rumah" buat kode-kodeku supaya nggak hilang dan bisa dipelajari lagi nantinya.
