@@ -31,3 +31,16 @@ Selain ngoding, aku juga aktif ngelola beberapa layanan di Telegram:
 </div>
 
 ---
+
+<div align="center">
+
+### 🌐 Social Media
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paizutempest)
+[![Telegram Pribadi](https://img.shields.io/badge/Telegram_Pribadi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paizutempest)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nokospaizu)
+[![Telegram Grup](https://img.shields.io/badge/Telegram_Grup-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paizuchat)
+
+</div>
+
+---
