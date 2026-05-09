@@ -46,7 +46,7 @@ Selain ngoding, aku juga aktif ngelola beberapa layanan di Telegram:
 ---
 
 ### 📞 Contact Me
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yaelanit)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paizutempest)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Neetsekai@gmail.com)
 
 ---
