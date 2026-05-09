@@ -39,12 +39,34 @@ Selain ngoding, aku juga aktif ngelola beberapa layanan di Telegram:
 <div align="center">
 
 ### 🌐 Social Media
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paizutempest)
-[![Telegram Pribadi](https://img.shields.io/badge/Telegram_Pribadi-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paizutempest)
 [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nokospaizu)
-[![Telegram Grup](https://img.shields.io/badge/Telegram_Grup-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paizuchat)
+[![Telegram Group](https://img.shields.io/badge/Telegram_Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/paizuchat)
+
+---
+
+### 📞 Contact Me
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yaelanit)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Neetsekai@gmail.com)
+
+---
+
+### ✨ Technologies I Use
+[![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 
 </div>
 
 ---
+
+<div align="center">
+
+---
+
+### 🚀 Thanks for visiting my profile!
+**Have a great day! ✨**
+
+## Keep Coding enjoy coding!
+![Waves](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer)
+
+</div>
