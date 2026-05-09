@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Banner Anime -->
   <img src="https://i.pinimg.com/1200x/e6/1e/b3/e61eb3f8e69d867c62cefbd221bcf0a9.jpg" width="100%" />
-
+</div>
   <br>
 
   <div align="center">
