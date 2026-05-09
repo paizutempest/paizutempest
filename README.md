@@ -57,8 +57,6 @@ Selain ngoding, aku juga aktif ngelola beberapa layanan di Telegram:
 
 </div>
 
----
-
 <div align="center">
 
 ---
@@ -66,7 +64,6 @@ Selain ngoding, aku juga aktif ngelola beberapa layanan di Telegram:
 ### 🚀 Thanks for visiting my profile!
 **Have a great day! ✨**
 
-## Keep Coding enjoy coding!
-![Waves](https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer)
+![Footer Waves](https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=80&section=footer&text=Keep+Coding+enjoy+coding!&fontSize=30&fontColor=FFFFFF&animation=twinkling)
 
 </div>
