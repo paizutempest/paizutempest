@@ -4,8 +4,10 @@
 
   <br>
 
+  <div align="center">
   <h1>Hi, I'm Paizutempest! 👋</h1>
-  <p><i>"Cuma seorang bot developer yang lagi asik ngulik barisan kode."</i></p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9FEFEE&center=true&vCenter=true&width=500&lines=Bot+Developer;Tech+Enthusiast;Cuma+seorang+bot+developer+yang+lagi+asik+ngulik+barisan+kode." alt="Typing SVG" />
 </div>
 
 ### 🚀 Sedikit Tentang Aku
