@@ -27,7 +27,7 @@ Selain ngoding, aku juga aktif ngelola beberapa layanan di Telegram:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paizutempest&show_icons=true&theme=tokyonight" alt="Paizutempest GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paizutempest&theme=tokyonight&hide_border=true" alt="Paizutempest GitHub Streak" />
 </div>
 
 ---
